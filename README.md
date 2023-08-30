@@ -1,4 +1,11 @@
 # BattleshipGame
-Built the game of battleship where a player can either play against another player or ai.
-Game was coded using C++.
-Was a collaborative project with one other classmate: Christina Lei.
+This project is a version of the board game *Battleship* in C++ that gets user input and displays the board and gameplay from the terminal. It is a 1-2 player game where two people can play against each other or 1 player can face off against an AI opponent.
+
+## Unfinished / Not Working Features
+- Users cannot enter whitespace before or after orientation.
+- Infinite loop when users enter letters for coordinates.
+- hitsTillDeath is getting reset to shipLength every time it is called.
+
+## Contributors
+- Rahul Lakshmanan
+- Christina Lei
